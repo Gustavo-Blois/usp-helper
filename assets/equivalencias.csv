@@ -352,12 +352,11 @@ SME0340 - Equações Diferenciais Ordinárias (EESC),SME0840-Equações Diferenc
 SME0104 - Cálculo Numérico (BCC),SME0892-Cálculo Numérico para Estatística (BECD)
 SME0300-Cálculo Numérico (EESC),SME0892-Cálculo Numérico para Estatística (BECD)
 SME0305-Métodos Numéricos e Computacionais I + SME0306-Métodos Numéricos e Computacionais II (EESC),SME0892-Cálculo Numérico para Estatística (BECD)
-"SME0600-Cálculo Numérico I E SME0601-Cálculo Numérico II
-(Eng. Comp. ) antigo",SME0892-Cálculo Numérico para Estatística (BECD)
-SME0602 - Cálculo Numérico (Eng. Comp.),SME0892-Cálculo Numérico para Estatística (BECD)SMA0800 - Geometria Analítica (BECD) + SMA0804 -Álgebra Linear para Estatística,"ACH2033-Matrizes, Vetores e Geometria Analítica"
-SMA0300 - Geometria Analítica + SMA0804 -Álgebra Linear para Estatística,"ACH2033-Matrizes, Vetores e Geometria Analítica"
-SMA0800 - Geometria Analítica (BECD) + SMA0304 -Álgebra Linear ,"ACH2033-Matrizes, Vetores e Geometria Analítica"
-SMA0300 - Geometria Analítica + SMA0304 -Álgebra Linear ,"ACH2033-Matrizes, Vetores e Geometria Analítica"
+"SME0600-Cálculo Numérico I E SME0601-Cálculo Numérico II(Eng. Comp. ) antigo",SME0892-Cálculo Numérico para Estatística (BECD)
+SME0602 - Cálculo Numérico (Eng. Comp.),SME0892-Cálculo Numérico para Estatística (BECD)SMA0800 - Geometria Analítica (BECD) + SMA0804 -Álgebra Linear para Estatística,"ACH2033-Matrizes Vetores e Geometria Analítica"
+SMA0300 - Geometria Analítica + SMA0804 -Álgebra Linear para Estatística,"ACH2033-Matrizes Vetores e Geometria Analítica"
+SMA0800 - Geometria Analítica (BECD) + SMA0304 -Álgebra Linear ,"ACH2033-Matrizes Vetores e Geometria Analítica"
+SMA0300 - Geometria Analítica + SMA0304 -Álgebra Linear ,"ACH2033-Matrizes Vetores e Geometria Analítica"
 SMA0302 - Cálculo II (6 créditos),MAT0133 - Cálculo II
 SMA0502 – Cálculo II,MAT0133 - Cálculo II
 SLC0592 – Cálculo Diferencial + SLC0593 – Cálculo Integral,MAT0146 - Cálculo I
@@ -506,10 +505,10 @@ SMA0302 - Cálculo II,SMA0502 – Cálculo II
 SMA0332 -Cálculo II + SMA0333 -Cálculo III,SMA0502-Cálculo II+SMA0303-Calculo III
 SMA0180 Matemática Discreta I,SMA0503 Matemática Discreta I (BSI antigo)
 SMA0182 – Álgebra Linear e Equações diferenciais,SMA0504 - Álgebra Linear e Equações diferenciais
-SMA0800 - Geometria Analítica (BECD) + SMA0804 -Álgebra Linear para Estatística,"SMA0505 - Matrizes, Vetores e Geometria Analítica (BSI)"
-SMA0300 - Geometria Analítica + SMA0804 -Álgebra Linear para Estatística,"SMA0505 - Matrizes, Vetores e Geometria Analítica (BSI)"
-SMA0800 - Geometria Analítica (BECD) + SMA0304 -Álgebra Linear ,"SMA0505 - Matrizes, Vetores e Geometria Analítica (BSI)"
-SMA0300 - Geometria Analítica + SMA0304 -Álgebra Linear ,"SMA0505 - Matrizes, Vetores e Geometria Analítica (BSI)"
+SMA0800 - Geometria Analítica (BECD) + SMA0804 -Álgebra Linear para Estatística,"SMA0505 - Matrizes Vetores e Geometria Analítica (BSI)"
+SMA0300 - Geometria Analítica + SMA0804 -Álgebra Linear para Estatística,"SMA0505 - Matrizes Vetores e Geometria Analítica (BSI)"
+SMA0800 - Geometria Analítica (BECD) + SMA0304 -Álgebra Linear ,"SMA0505 - Matrizes Vetores e Geometria Analítica (BSI)"
+SMA0300 - Geometria Analítica + SMA0304 -Álgebra Linear ,"SMA0505 - Matrizes Vetores e Geometria Analítica (BSI)"
 SMA0180 - Matemática Discreta (BCC),SMA0508 - Matemática Discreta (BSI)
 SMA0330-Complementos de geometria e vetores,SMA0800 - Geometria Analítica (BECD)
 SLC0602 - Geometria Analítica (LCE),SMA0800 - Geometria Analítica (BECD)
